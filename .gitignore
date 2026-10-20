@@ -1,0 +1,11 @@
+# Private planning and learning files (only for me, not for GitHub)
+CLAUDE.md
+PROJECT_PLAN.md
+EXECUTION_GUIDE.md
+DECISIONS.md
+DEBUG_LOG.md
+CONCEPTS.md
+
+# System files that macOS and Windows create on their own
+.DS_Store
+Thumbs.db
