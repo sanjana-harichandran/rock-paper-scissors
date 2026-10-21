@@ -2,7 +2,7 @@
 
 A browser game where you play Rock, Paper, Scissors against the computer.
 
-🚧 Work in progress: this game is being built step by step.
+🚧 Work in progress: the page structure (HTML) is done. Styling and game logic come next.
 
 ## Play it online
 _Coming soon. The game will be published with GitHub Pages._
@@ -14,7 +14,7 @@ _Coming soon_
 _Coming soon_
 
 ## Built with
-_Coming soon_
+- HTML
 
 ## Features
 _Coming soon_

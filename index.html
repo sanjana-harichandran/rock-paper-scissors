@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- UTF-8 lets the page show any character, including emojis later -->
+    <meta charset="UTF-8">
+    <!-- Makes the page fit phone screens instead of showing a tiny zoomed-out desktop page -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock, Paper, Scissors</title>
+  </head>
+  <body>
+    <main>
+      <h1>Rock, Paper, Scissors</h1>
+      <p>Pick one to play against the computer.</p>
+
+      <button type="button" id="rock-button">Rock</button>
+      <button type="button" id="paper-button">Paper</button>
+      <button type="button" id="scissors-button">Scissors</button>
+
+      <p id="result-message" aria-live="polite">Pick Rock, Paper or Scissors to start.</p>
+
+      <p>You: <span id="player-score">0</span></p>
+      <p>Computer: <span id="computer-score">0</span></p>
+
+      <button type="button" id="reset-button">Reset score</button>
+    </main>
+  </body>
+</html>
